@@ -59,6 +59,11 @@ The following is a flowchart. It moves the cursor by classifying the four direct
 ### Sensor
 - OP AMP(TLV2372IDR)
 
+### Hardware
+- Board: BMDAQ
+- Microcontroller: MSP430TM(TI)
+
+
 ### Software
 - LTspice(circuit simulation)
 - Matlab(preprocessing)
