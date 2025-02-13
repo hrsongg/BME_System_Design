@@ -57,7 +57,7 @@ The following is a flowchart. It moves the cursor by classifying the four direct
 
 ---
 ### Sensor
-
+- OP AMP(TLV2372IDR)
 
 ### Software
 - LTspice(circuit simulation)
